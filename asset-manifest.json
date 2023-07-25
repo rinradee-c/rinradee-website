@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rinradee-website/static/css/main.9d38c77b.css",
+    "main.js": "/rinradee-website/static/js/main.e3d60130.js",
+    "static/js/787.1ed0c42c.chunk.js": "/rinradee-website/static/js/787.1ed0c42c.chunk.js",
+    "static/media/propic.jpg": "/rinradee-website/static/media/propic.9a4c2bf441d6e91275f3.jpg",
+    "static/media/Monsters_saber_pic.png": "/rinradee-website/static/media/Monsters_saber_pic.234961ac150e61840459.png",
+    "static/media/ruby.png": "/rinradee-website/static/media/ruby.deb916cf57d12c8d0cb8.png",
+    "static/media/logoR-white.png": "/rinradee-website/static/media/logoR-white.24412ffc26e30cddb29c.png",
+    "static/media/system.png": "/rinradee-website/static/media/system.8eae22820c4bbd3ebe0c.png",
+    "static/media/java.png": "/rinradee-website/static/media/java.e33b881cd42a867cae10.png",
+    "static/media/ETF.png": "/rinradee-website/static/media/ETF.6aaf28b4f44a08cce682.png",
+    "static/media/php.png": "/rinradee-website/static/media/php.28df0ed53df55b72d173.png",
+    "static/media/html-css-js.png": "/rinradee-website/static/media/html-css-js.aab59987a376edab2034.png",
+    "static/media/Python.png": "/rinradee-website/static/media/Python.212de8d7278260fca353.png",
+    "index.html": "/rinradee-website/index.html",
+    "main.9d38c77b.css.map": "/rinradee-website/static/css/main.9d38c77b.css.map",
+    "main.e3d60130.js.map": "/rinradee-website/static/js/main.e3d60130.js.map",
+    "787.1ed0c42c.chunk.js.map": "/rinradee-website/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d38c77b.css",
+    "static/js/main.e3d60130.js"
+  ]
+}
