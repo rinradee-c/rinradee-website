@@ -9,7 +9,7 @@ const Nav = () => {
         <nav>
             <div className='nav-left'>
                 <img src={logopic} alt="proflie" className="logopic" />
-                {/* <a className="button-resume" href="../../img/Rinradee_Resume.pdf" download="Rinradee_Resume.pdf"><i class="fa fa-download"></i>Resume</a> */}
+                <a className="button-resume" href="Rinradee_Resume.pdf" download="Rinradee_Resume.pdf"><i class="fa fa-download"></i>Resume</a>
             </div>
             <div className='nav-right'>
                 <a href="#" onClick={() => setActiveNav('#')} className={activeNav === '#' ? 'active' : ''}><i class="fas fa-home"></i></a>
