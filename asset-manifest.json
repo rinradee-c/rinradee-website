@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rinradee-website/static/css/main.9d38c77b.css",
-    "main.js": "/rinradee-website/static/js/main.e3d60130.js",
+    "main.js": "/rinradee-website/static/js/main.30830deb.js",
     "static/js/787.1ed0c42c.chunk.js": "/rinradee-website/static/js/787.1ed0c42c.chunk.js",
     "static/media/propic.jpg": "/rinradee-website/static/media/propic.9a4c2bf441d6e91275f3.jpg",
     "static/media/Monsters_saber_pic.png": "/rinradee-website/static/media/Monsters_saber_pic.234961ac150e61840459.png",
@@ -15,11 +15,11 @@
     "static/media/Python.png": "/rinradee-website/static/media/Python.212de8d7278260fca353.png",
     "index.html": "/rinradee-website/index.html",
     "main.9d38c77b.css.map": "/rinradee-website/static/css/main.9d38c77b.css.map",
-    "main.e3d60130.js.map": "/rinradee-website/static/js/main.e3d60130.js.map",
+    "main.30830deb.js.map": "/rinradee-website/static/js/main.30830deb.js.map",
     "787.1ed0c42c.chunk.js.map": "/rinradee-website/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d38c77b.css",
-    "static/js/main.e3d60130.js"
+    "static/js/main.30830deb.js"
   ]
 }
