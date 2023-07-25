@@ -39,7 +39,7 @@ const Projects = () => {
                                 Developed an Internship and Cooperative Training Processing System website 
                                 using PHP, HTML, XAMPP with Apache and MySQL.
                             </p>
-                            <img src={etfpic} className="pic" />
+                            <img src={syspic} className="pic" />
                         </div>
                     </div>
                     <div className='col-pro'>
@@ -54,7 +54,7 @@ const Projects = () => {
                                 Developed a Pacman game in Snow White theme using Java and
                                 Object Oriented Programming.
                             </p>
-                            <img src={syspic} className="pic" />
+                            <img src={etfpic} className="pic" />
                         </div>
                     </div>
                 </div>
