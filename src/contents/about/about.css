@@ -1,0 +1,80 @@
+.con-about {
+    height: 100vh;
+    padding-top: 0rem;
+    overflow: hidden;
+    /* text-align: left; */
+    /* box-sizing: border-box; */
+    /* margin-top: 8rem; */
+}
+
+.row-about {
+    margin-top: 8rem;
+}
+
+.col-about1 {
+    height: 100%;
+    /* float: left; */
+    position: relative;
+    width: 100%;
+    padding: 0 20px;
+}
+
+/* open this if have objective in later */
+/* .col-about2 {
+    height: 100%;
+    float: left;
+    position: relative;
+    width: 70%;
+    padding: 0 20px;
+} */
+
+.information-about {
+    /* background: rgb(23, 52, 167); */
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.text-about {
+    background-color: rgb(60, 60, 60);
+    border-radius: 20px;
+    text-align: justify;
+    /* margin-top: auto; */
+    padding: 20px 20px;
+}
+
+.heart {
+    text-align: right;
+}
+
+.logopic {
+    width: 40px;
+    height: 25px;
+    object-fit: contain;
+}
+
+.profilepic {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    object-fit: cover;
+  }
+
+@media screen and (max-width: 800px) {
+    .col-about1,
+    .col-about2{
+        width: 100%;
+        text-align: center;
+    }
+    
+    .profilepic {
+        margin: auto;
+    }
+
+    .row-about {
+    margin-top: 0;
+    }
+
+}
